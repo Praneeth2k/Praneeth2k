@@ -3,7 +3,7 @@ Here you can find some of the projects that I have done during my three years of
 
 I am mostly interested in web development. I've learnt and used React, NodeJS, MongoDB..all the good stuff.
 
-I have also done a special project with Samsung which involves ML, NL training and API calls. Please do check it out https://github.com/Praneeth2k/Bixby-Zomato-capsule-Samsung.
+I have also done a special project with Samsung which involves ML, NL training and API calls. Please do check it out [here](https://github.com/Praneeth2k/Bixby-Zomato-capsule-Samsung).
 
 I am currently working on a website which helps colleges and schools make timetables. Check out - www.makemytimetable.com.
 
