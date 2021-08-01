@@ -7,7 +7,7 @@ I have also done a special project with Samsung which involves ML, NL training a
 
 I am currently working on a website which helps colleges and schools make timetables. Check out - www.makemytimetable.com.
 
-You can contact me at Twitter - @Praneeth2k2 or LinkedIn - https://www.linkedin.com/in/praneeth-b-613b67204
+
 
 <!--
 **Praneeth2k/Praneeth2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
