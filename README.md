@@ -5,9 +5,6 @@ I am mostly interested in web development. I've learnt and used React, NodeJS, M
 
 I have also done a special project with Samsung which involves ML, NL training and API calls. Please do check it out [here](https://github.com/Praneeth2k/Bixby-Zomato-capsule-Samsung).
 
-I am currently working on a website which helps colleges and schools make timetables. Check out - www.makemytimetable.com.
-
-
 
 <!--
 **Praneeth2k/Praneeth2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
