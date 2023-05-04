@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm just trying to find interesting open source projects and contribute to them.
 
-I am mostly interested in web development and Blockchain. I've learnt and used React, NodeJS, MongoDB and Solidity.
+I am mostly interested in web development and Blockchain. I've learnt and used React, NodeJS, MongoDB and Solidity (Hardhat).
 
 <!--
 **Praneeth2k/Praneeth2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
