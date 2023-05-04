@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm just trying to find interesting open source projects and contribution to them.
+I'm just trying to find interesting open source projects and contribute to them.
 
 I am mostly interested in web development and Blockchain. I've learnt and used React, NodeJS, MongoDB and Solidity.
 
